@@ -1,0 +1,52 @@
+.body-parent {
+    margin-bottom: 5px;
+
+    .text-name {
+        font-size: 20px;
+    }
+
+    .btn-delete {
+        border-radius: 5px;
+        background-color: orange;
+        border: none;
+        margin-left: 5px;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+
+    .btn-update {
+        border-radius: 5px;
+        background-color: rgb(247, 223, 180);
+        border: none;
+        margin-left: 5px;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}
+
+.btn-save {
+    border-radius: 5px;
+    background-color: orange;
+    border: none;
+    margin-left: 5px;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.btn-add {
+
+    border-radius: 5px;
+    background-color: rgb(247, 223, 180);
+    border: none;
+    margin-left: 5px;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
